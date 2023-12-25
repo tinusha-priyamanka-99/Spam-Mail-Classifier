@@ -3,8 +3,11 @@ This project focuses on classifying emails as spam or ham (non-spam) using natur
 
 Contents:-
 mail_data.csv: Dataset containing labeled emails.
+
 Spam_Email_Classification.ipynb: Jupyter Notebook with the code for data preprocessing, feature extraction, model training, and prediction.
+
 Predictive_System.py: Python script for using the trained model to classify new emails.
+
 requirements.txt: List of Python packages required for running the code.
 Data Collection & Pre-Processing
 Loaded and explored the raw email dataset (mail_data.csv).
