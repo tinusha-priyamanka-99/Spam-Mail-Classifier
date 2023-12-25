@@ -1,5 +1,5 @@
 Overview:-
-This project focuses on classifying emails as spam or ham (non-spam) using natural language processing techniques and logistic regression. The dataset contains labeled emails, and the goal is to build a predictive model that can accurately classify new, unseen emails.
+This project focuses on classifying emails as spam or ham (non-spam) using logistic regression. The dataset contains labeled emails, and the goal is to build a predictive model that can accurately classify new, unseen emails.
 
 Contents:-
 mail_data.csv: Dataset containing labeled emails.
