@@ -1,7 +1,7 @@
-Overview
+Overview:-
 This project focuses on classifying emails as spam or ham (non-spam) using natural language processing techniques and logistic regression. The dataset contains labeled emails, and the goal is to build a predictive model that can accurately classify new, unseen emails.
 
-Contents
+Contents:-
 mail_data.csv: Dataset containing labeled emails.
 Spam_Email_Classification.ipynb: Jupyter Notebook with the code for data preprocessing, feature extraction, model training, and prediction.
 Predictive_System.py: Python script for using the trained model to classify new emails.
